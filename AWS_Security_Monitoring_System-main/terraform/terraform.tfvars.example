@@ -1,0 +1,8 @@
+# Replace these with your actual Datadog API and APP keys
+datadog_api_key = "YOUR_DATADOG_API_KEY_HERE" # Get this from your Datadog account settings
+datadog_app_key = "YOUR_DATADOG_APP_KEY_HERE" # Get this from your Datadog account settings
+
+# AWS configuration
+logs_bucket_name = "aws-security-monitoring-logs-UNIQUE_ID" # Replace UNIQUE_ID with a unique identifier
+environment = "dev"
+aws_region = "us-east-1" # Change to your preferred region 
