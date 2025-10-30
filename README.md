@@ -47,7 +47,7 @@ This system utilizes a serverless architecture with AWS Lambda functions to coll
 1. Clone this repository:
 
 ```
-git clone [repository-url]
+git clone https://github.com/kavyab2922/AWS_SECURITY_MONITORING_SYSTEM
 cd aws-security-monitoring
 ```
 
